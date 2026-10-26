@@ -1,1 +1,0 @@
-The source materials included 2024 personal coursework, earlier documents written by another person, official assignments and sample solutions, and a Python LIS practice script. None of those original files are uploaded here. These standalone programs are later AI-assisted portfolio demonstrations, not coursework submissions.

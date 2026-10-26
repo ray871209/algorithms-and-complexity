@@ -23,3 +23,11 @@ Run from repository root. Sorting benchmark times are machine- and input-depende
 ## Provenance and sharing
 
 Inspired by COMP90038 topics; all demonstration code and tests were created later with AI assistance. The source course documents include assessment prompts and solutions which are **not redistributed**. No personally identifying student details are included. Before setting Public, check course sharing restrictions.
+
+## Additional algorithms
+
+- `sorting/counting_sort.py`: counting sort for small, non-negative integer domains; O(n + k) time and space.
+- `graphs/dijkstra.py`: weighted shortest distances using a binary heap and non-negative edge weights; O((V + E) log V) under typical adjacency-list assumptions.
+- `tests/test_additional_algorithms.py`: selected expected outcomes and input-validation cases.
+
+These are newly written AI-assisted extensions, separate from original course submissions.

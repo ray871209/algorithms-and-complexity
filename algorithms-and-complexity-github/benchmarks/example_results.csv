@@ -1,0 +1,13 @@
+size,algorithm,median_ms
+50,insertion,0.03799
+50,merge,0.04274
+50,hybrid,0.02442
+200,insertion,0.72699
+200,merge,0.24432
+200,hybrid,0.16894
+800,insertion,12.54177
+800,merge,1.3565
+800,hybrid,1.4257
+1500,insertion,45.63752
+1500,merge,2.3328
+1500,hybrid,1.89768
